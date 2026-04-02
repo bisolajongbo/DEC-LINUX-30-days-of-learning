@@ -43,8 +43,10 @@ What is Linux File System is a structured method of storing and organizing data 
 
 ## Key Takeaways
 
-- 
-- 
+- Linux sees everything as a file
+- Linux commands are case sensitive
+- Command Line Shell is more powerfully than Graphical Shell
+-File name in Linux contains 255 characters and contain any character(including whitespace,except /) 
 
 ---
 
