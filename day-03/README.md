@@ -36,6 +36,7 @@ I Practiced how create Directory,change directory and create file
 ---
 
 ## Key Takeaways
+
 It important to understand the file system navigation
 - 
 - 
