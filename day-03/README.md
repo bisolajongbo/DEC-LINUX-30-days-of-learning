@@ -9,10 +9,10 @@ To understand Directory Structure and basic file navigation
 ## What I Learned
 1. Linux uses a hierarchical directory structure that starts from the root (/).Everything in Linux is a file or directory.
 These directories includes:
- 1. /home(user files)
- 2.  /etc(configuration)
- 3. /var(variable data)
- 4. /usr(user program)
+  1. /home(user files)
+  2.  /etc(configuration)
+  3. /var(variable data)
+  4. /usr(user program)
 
 2. I also learnt  Tilde(~) means the home directory
 3. How to create Directory using mkdir 
