@@ -52,19 +52,19 @@ It important to understand the file system navigation
 
 ## Output
 
-![ List of root directory](<List of root directories.png>)
+![ Fig 1. List of root directory](<List of root directories.png>)
 
-![List of configuration dir](<List of configuration dir.png>)
+![Fig 2.List of configuration dir](<List of configuration dir.png>)
 
-![user program](<user program.png>)
+![Fig 3.user program](<user program.png>)
 
-![Variable data](<Variable data.png>)
+![Fig 4. Variable data](<Variable data.png>)
 
-![How to Create directory](<How to Create directory.png>)
+![Fig 5. How to Create directory](<How to Create directory.png>)
 
-![How to create directory command line](<How to create directory command line.png>)
+![Fig 6. How to create directory command line](<How to create directory command line.png>)
 
-![nano editor](<nano editor.png>)
+![Fig 7. nano editor](<nano editor.png>)
 
-![Python code output](<Python code output.png>)
+![Fig 8. Python code output](<Python code output.png>)
 
