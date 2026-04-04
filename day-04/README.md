@@ -1,4 +1,4 @@
-# Day 04 - [Linux Path and Practiced Navigation ]
+# Day 04 - [Linux Path and Practiced Navigation]
 
 ## Objective
 
