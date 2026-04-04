@@ -26,11 +26,15 @@ Is the exact location of a file or directory starting from the root directory (/
 Example 
 /home/omojesu_linux/DEC-LINUX-30-days-of-learning
 
+
+
+
 # Relative Path
-Is  the path related to the present  working directory.It start at your current directory.
+
+
+- Is  the path related to the present  working directory.It start at your current directory.
 Example
 /DEC-LINUX-30-days-of-learning/day-04
-- 
 - 
 - 
 
@@ -91,3 +95,4 @@ Website:https://www.geeksforgeeks.org/linux-unix/file-system-navigation-commands
 
 ![File Operation](<File Operation(copied sales file from raw_data to proccessed_data).png>)
 
+![alt text](<Day5 Output .png>) 
