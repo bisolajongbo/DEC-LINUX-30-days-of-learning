@@ -26,12 +26,7 @@ Is the exact location of a file or directory starting from the root directory (/
 Example 
 /home/omojesu_linux/DEC-LINUX-30-days-of-learning
 
-
-
-
 # Relative Path
-
-
 - Is  the path related to the present  working directory.It start at your current directory.
 Example
 /DEC-LINUX-30-days-of-learning/day-04
@@ -74,10 +69,8 @@ Move customers.csv from raw_data to processed_data.
 - 
 
 ---
-
 ## Key Takeaways
-It is important you understand file Navigation as a Data Engineer
-- 
+- It is important you understand file Navigation as a Data Engineer
 - 
 
 ---
@@ -89,10 +82,13 @@ Website:https://www.geeksforgeeks.org/linux-unix/file-system-navigation-commands
 ---
 
 ## Output
+![alt text](<Day5 Output .png>) 
+
+![alt text](<Tree day5.png>)
+
 ![Directory creation](<Directory creation _Day 5.png>)
 
 ![File creation](<File creation using touch command-Day5.png>)
 
 ![File Operation](<File Operation(copied sales file from raw_data to proccessed_data).png>)
 
-![alt text](<Day5 Output .png>) 
