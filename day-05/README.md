@@ -11,6 +11,7 @@ To understand how to edit and view files in Linux
 - I learnt about cat command to display content and how to combine contents of two files into one
 - I learnt about more command which view long files one page at a time.
 - I also read about Linux Text editor
+- I learnt about head  and tail command
 
 ---
 
