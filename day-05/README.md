@@ -18,7 +18,7 @@ To understand how to edit and view files in Linux
 ## What I Built / Practiced
 
 - ![Content view](image.png)
-- 
+- ![Create file](image-1.png)
 
 ---
 
