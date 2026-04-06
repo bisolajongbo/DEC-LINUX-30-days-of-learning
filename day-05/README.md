@@ -43,5 +43,6 @@ To understand how to edit and view files in Linux
 ---
 
 ## Output
-
 ![Content view](image.png)
+![Create file](image-1.png)
+
