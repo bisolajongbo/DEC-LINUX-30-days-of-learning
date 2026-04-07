@@ -1,4 +1,4 @@
-# Day 07 - [File Content Search anD Text Processing]
+# Day 07 - [File Content Search and Text Processing]
 
 ## Objective
 
