@@ -1,0 +1,17 @@
+The less command comes in handy when a file is really big or when a com
+mand’s output is long and scrolls off the top of the screen.
+To page through a big file like /usr/share/dict/words, you can use the 
+command less /usr/share/dict/words. When running less, you’ll see the con
+tents of the file one screenful at a time. Press the spacebar to go forward in 
+the file and press b (lowercase) to skip back one screenful. To quit, press q.
+NOTE The less command is an enhanced version of an older program named more. Linux 
+desktops and servers have less, but it’s not standard on many embedded systems and 
+other Unix systems. If you ever run into a situation when you can’t use less, try more.
+You can also search for text inside less. For example, to search forward 
+for a word, you can type /word, and to search backward, you can use ?word. 
+When you find a match, press n to continue searching.
+As you’ll learn in Section 2.14, you can send the standard output of 
+nearly any program directly to another program’s standard input. This is 
+exceptionally useful when you have a command with a lot of output to sift 
+through and you’d like to use something like less to view the output. Here’s 
+an example of sending the output of a grep command to less
