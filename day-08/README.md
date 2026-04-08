@@ -30,14 +30,14 @@ To understand Sorting, Counting, and Filtering Data
 
 ## Challenges Faced
 
-- 
+- None
 - 
 
 ---
 
 ## Key Takeaways
 
-- 
+- As data engineers is important  we know Sorting, Counting, and Filtering Data
 - 
 
 ---
