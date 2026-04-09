@@ -1,0 +1,14 @@
+Command 'nan' not found, did you mean:
+  command 'nax' from snap nax (0.0.35)
+  command 'nap' from snap nap-snippets (0.1.1)
+  command 'pan' from deb pan (0.155-1)
+  command 'nn' from deb nn (6.7.3-15)
+  command 'na6' from deb ipv6toolkit (2.0+ds.1-2)
+  command 'nad' from deb ncbi-acc-download (0.2.8-1)
+  command 'nam' from deb nam (1.15-6)
+  command 'dan' from deb emboss (6.6.0+dfsg-12ubuntu1)
+  command 'an' from deb an (1.2-7build2)
+  command 'nnn' from deb nnn (4.9-1)
+  command 'nano' from deb nano (7.2-2ubuntu0.1)
+  command 'man' from deb man-db (2.12.0-1)
+See 'snap info <snapname>' for additional versions.
