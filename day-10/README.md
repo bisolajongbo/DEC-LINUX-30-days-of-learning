@@ -55,7 +55,6 @@ To learn about Chaining and Combining command in Linux
 
 ## Output
 - [fig1](image.png)
-
 - ![alt text](image-1.png)
 - ![alt text](image-5.png)
 - ![alt text](image-6.png)
