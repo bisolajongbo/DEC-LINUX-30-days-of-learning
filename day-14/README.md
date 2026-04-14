@@ -1,4 +1,4 @@
-# Day 14 - [User and Group in Linux ]
+# Day 14 - [User and Group in Linux Practice]
 
 ## Objective
 
@@ -55,7 +55,11 @@ Learn how to create users, create groups, and assign users to groups.
 ---
 
 ## Output
-day-14/Pratical 1.png
-day-14/Practical2.png
-day-14/Practical 3.png
-day-14/Practical 4.png
+
+![Fig 1](<Pratical 1.png>)
+
+![Fig 2](Practical2.png)
+
+![Fig 3](<Practical 3.png>)
+
+![Fig 4](<Practical 4.png>)
