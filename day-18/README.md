@@ -1,4 +1,4 @@
-# Day 18 - [System monitoring in linux]
+# Day 18 - [System Monitoring in Linux]
 
 ## Objective
 To understand System monitoring in linux
