@@ -7,7 +7,6 @@ To understand  how Processes works in Linux
 ---
 
 ## What I Learned
-
 - I learnt that in Linux a process is an active instance of a running program
 - I leant that every time a command is ran ,a new process is created.
 - Key Process identifier(PID,PPID,USID)
