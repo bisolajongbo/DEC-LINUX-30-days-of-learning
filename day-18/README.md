@@ -7,7 +7,7 @@ To understand System monitoring in linux
 
 ## What I Learned
 
-- I learnt what System Monitoring in Linux is
+- I learnt what System Monitoring in Linux 
 - Command Linux used
 
 ---
