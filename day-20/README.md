@@ -26,7 +26,8 @@ To understand Variables and User Input
 ## Challenges Faced
 
 - Creating directory  
-- 
+- Missed chmod +x 
+- I had command not found because i didn't use the echo command 
 
 ---
 
@@ -49,3 +50,4 @@ To understand Variables and User Input
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+![alt text](image-4.png)
