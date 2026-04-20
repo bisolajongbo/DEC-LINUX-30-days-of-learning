@@ -36,6 +36,7 @@ To understand Variables and User Input
 - Good variable naming improves readability
 - "read" is used to collect user input
 - Variables store data for reuse
+- Bash treats everything as a command unless you explicitly tell it to print (echo)
 
 ---
 
