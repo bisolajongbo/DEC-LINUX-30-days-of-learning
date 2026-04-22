@@ -1,7 +1,8 @@
 # Day 21 - [Variables and User Input]
 
-## Objective
- To understand Command Substitution,Environment Variables,Exporting Variables and Constants and Read-only Variables
+## Objective   
+
+To understand Command Substitution,Environment Variables,Exporting Variables and Constants and Read-only Variables
 ---
 
 ## What I Learned
