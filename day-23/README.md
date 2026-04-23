@@ -9,7 +9,7 @@ To understand Common Conditional Operators and Combining Conditions (AND & OR)
 ## What I Learned
 
 - I learnt Conditional Operators
--I also  learnt Combining Conditions (AND & OR)
+- I also  learnt Combining Conditions (AND & OR)
 - 
 
 ---
