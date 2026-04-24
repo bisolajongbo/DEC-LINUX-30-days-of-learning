@@ -1,0 +1,33 @@
+#!/bin/bash
+
+logfile="pipeline.log"
+
+error_count=0
+warning_count=0
+info_count=0
+
+while read line
+do
+    case $line in
+        ERROR*)
+            ((error_count++))
+            echo "ALERT: $line"
+            ;;
+        WARNING*)
+            ((warning_count++))
+            echo "Warning detected: $line"
+            ;;
+        INFO*)
+            ((info_count++))
+            ;;
+        *)
+            echo "Unknown log: $line"
+            ;;
+    esac
+done < $logfile
+
+echo "----------------------"
+echo "Log Summary:"
+echo "Errors: $error_count"
+echo "Warnings: $warning_count"
+echo "Info: $info_count"
