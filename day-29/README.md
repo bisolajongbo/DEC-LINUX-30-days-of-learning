@@ -43,7 +43,7 @@ My objective is to understand why Error Handling and Debugging in Bash is import
     - Handling them clearly
     - Preventing silent errors
     - Making scripts predictable and safe
--
+
 
 ---
 
